@@ -1,2 +1,3 @@
-Master's Thesis for NYU Music Technology, SP 2016
+Master's Thesis for NYU Music Technology
 Advisor: Dr Tae Hong Park
+Spring 2016
